@@ -18,4 +18,3 @@ function blurFunc() {
     let parent = this.parentNode.parentNode
     parent.classList.remove('focus')
 }
-
