@@ -6,4 +6,5 @@
 </div>
 
 Based on https://github.com/sefyudem/Responsive-Login-Form with some modifications.
+<br>
 Access in GitHub Pages: https://luizfilipeyep.github.io/responsive-login-form/
